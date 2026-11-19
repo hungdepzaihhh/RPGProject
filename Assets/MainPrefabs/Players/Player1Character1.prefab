@@ -216,11 +216,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5931581220049320341, guid: cdc8debdf7cefb34886bcedd566becc4, type: 3}
       propertyPath: m_AngularSpeed
-      value: 720
+      value: 60000
       objectReference: {fileID: 0}
     - target: {fileID: 5931581220049320341, guid: cdc8debdf7cefb34886bcedd566becc4, type: 3}
       propertyPath: m_StoppingDistance
-      value: 0.2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6560848435942599016, guid: cdc8debdf7cefb34886bcedd566becc4, type: 3}
       propertyPath: m_RootOrder
